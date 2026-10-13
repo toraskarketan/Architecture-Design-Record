@@ -2,7 +2,7 @@
 
 **Course:** 02AML204 – Introduction to Artificial Intelligence  
 **Student Name:** Ketan Gajanan Toraskar  
-**Program:** SY B.Tech. CSE (AI & ML) | Semester VI  
+**Program:** SY B.Tech. CSE (AI & ML) | Semester III
 **AI Collaboration Tool:** Gemini (Google)
 
 ---
